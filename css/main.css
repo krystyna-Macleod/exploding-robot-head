@@ -23,16 +23,21 @@ body {
 
 .robot-body {
   width: 320px;
-  position: relative;
+  top: 50%;
 }
 
 .robot-brain {
   width: 46px;
   position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(50%);
 }
 
 .robot-head-right,
 .robot-head-left {
   width: 125px;
   position: absolute;
+  top: 0;
+  left: 50%;
 }
