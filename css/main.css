@@ -16,16 +16,14 @@ body {
 .banner {
   background-color: #2b3851;
   position: relative;
-  max-height: 500px;
 }
 
 .robot {
   width: 320px;
   position: relative;
   margin: 0 auto;
-  overflow: hidden;
-  min-height: 215px;
-  top: 34px;
+  min-height: 240px;
+  top: 55px;
 }
 
 .robot-body {
@@ -44,8 +42,7 @@ body {
 .robot-head-left {
   width: 125px;
   position: absolute;
-  top: -40px;
-  left: 50%;
+  top: -37px;
 }
 
 .robot-head-left {
@@ -57,9 +54,9 @@ body {
 }
 
 .robot-head-right:hover {
-  left: 0;
+  right: 0;
 }
 
 .robot-head-left:hover {
-  right: 0;
+  left: 0;
 }
