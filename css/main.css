@@ -23,7 +23,7 @@ body {
   width: 320px;
   position: relative;
   margin: 0 auto;
-  overflow: visible;
+  overflow: hidden;
 }
 
 .robot-body {
