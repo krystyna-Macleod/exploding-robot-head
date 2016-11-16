@@ -22,8 +22,8 @@ body {
   width: 320px;
   position: relative;
   margin: 0 auto;
-  min-height: 240px;
-  top: 55px;
+  min-height: 239px;
+  top: 54px;
 }
 
 .robot-body {
@@ -42,7 +42,7 @@ body {
 .robot-head-left {
   width: 125px;
   position: absolute;
-  top: -37px;
+  top: -38px;
 }
 
 .robot-head-left {
