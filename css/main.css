@@ -55,10 +55,14 @@ body {
 
 .robot-head-right:hover {
   right: 0;
-  top: -10;
+  top: -50px;
 }
 
 .robot-head-left:hover {
   left: 0;
-  top: -10;
+  top: -50px;
+}
+
+.robot-brain:hover {
+  top: -30px;
 }
